@@ -10,7 +10,7 @@
     "homeLogo": "",
     "awayLogo": "",
     "status": "",
-    "analysis": "It appears there are no available statistics for fixture 1515526 to analyze. Without match data such as possession, shots, passing accuracy, or formations, it's challenging to provide a meaningful tactical analysis. If you can provide the match stats or key details, I’d be happy to offer an insightful breakdown."
+    "analysis": "It appears that there is no data available for the requested fixture, so I cannot provide a tactical analysis for the match. Please provide the fixture details or statistics, and I will be happy to analyze it for you."
   },
   {
     "homeTeam": "Unknown",
@@ -23,7 +23,7 @@
     "homeLogo": "",
     "awayLogo": "",
     "status": "",
-    "analysis": "It appears that there are no available statistics for the fixture with ID 1515527, so I am unable to provide a tactical analysis based on the match data. If you can provide specific match details or statistics, I would be happy to help analyze the tactics."
+    "analysis": "It appears that the match statistics data was not provided or is missing, so I'm unable to perform a tactical analysis for the specified fixture. Please provide the complete match statistics or details, and I will be happy to analyze the tactics for you."
   },
   {
     "homeTeam": "Unknown",
@@ -36,7 +36,7 @@
     "homeLogo": "",
     "awayLogo": "",
     "status": "",
-    "analysis": "It appears that there are no statistics available for the fixture with ID 1515528, so I am unable to provide a tactical analysis for this match. If you can provide any match data or specific details, I would be happy to analyze them."
+    "analysis": "It appears there is no statistical data provided for the fixture, so I am unable to conduct a tactical analysis. Please provide the match statistics or details so I can offer insights on the teams' performances and tactical approaches."
   },
   {
     "homeTeam": "Unknown",
@@ -49,6 +49,123 @@
     "homeLogo": "",
     "awayLogo": "",
     "status": "",
-    "analysis": "There are no available statistics for fixture 1515529, so I am unable to provide a tactical analysis for this match. If you can provide match details or key stats, I would be happy to analyze the tactics."
+    "analysis": "It appears there are no available statistics or data for the match in question. Without the relevant match statistics, a tactical analysis cannot be provided. Please provide the fixture details or match data to proceed with the analysis."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there are no match statistics provided for analysis. Please provide the relevant match data or statistics so I can offer a tactical breakdown."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there are no statistics or match data provided for analysis. Please share the match details or statistics so I can provide an accurate tactical analysis."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there is no match data or statistics provided for analysis. Please share the match details or statistics so I can offer a tactical breakdown."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there are no available statistics or data for the specified fixture, so I am unable to provide a tactical analysis for the match. If you can provide the match statistics or details, I will be happy to analyze the game accordingly."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there are no match statistics provided for analysis. Please share the relevant data or details from the fixture so I can offer an insightful tactical breakdown."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there are no statistics available for the requested fixture, so I am unable to provide a tactical analysis at this time. If you can provide match details or specific stats, I’d be happy to help with the analysis."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears that the statistics data for the match was not provided or could not be retrieved due to a rate limit issue. Without specific match statistics, I am unable to offer a detailed tactical analysis. If you can provide the key match statistics or details, I would be happy to analyze the tactics for you."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there was an issue and no match statistics were provided for analysis. Please share the specific match data or key statistics so I can provide an accurate tactical breakdown."
+  },
+  {
+    "homeTeam": "Unknown",
+    "awayTeam": "Unknown",
+    "homeGoals": "-",
+    "awayGoals": "-",
+    "date": "",
+    "league": "",
+    "leagueLogo": "",
+    "homeLogo": "",
+    "awayLogo": "",
+    "status": "",
+    "analysis": "It appears there was an issue retrieving the match statistics due to a rate limit error, so I don't have the specific data to analyze. If you can provide the key match statistics or details about the teams' formations and performance, I would be happy to offer a concise tactical analysis."
   }
 ]
